@@ -1,4 +1,9 @@
-body {
-	font-family: 'Courier New', Courier, monospace;
-	font-weight: bolder;
+body{
+display: grid;
+background-color: rgb(220, 220, 220)
+}
+
+div{
+	max-width: 1000px;
+	text-align: center;
 }
